@@ -5,7 +5,7 @@
 ## Team members:
 1. Noah Knishkowy (nbk22@pitt.edu)
 * Notebook: city owned properties
-2. Christopher McEnroe (chm212)
+2. Christopher McEnroe (chm212@pitt.edu)
 * Notebook: playgrounds
 3. Daniel Richard (email)
 * Notebook: baseball field listings
